@@ -32,7 +32,7 @@ end;
 
 function module:LoadInit(config)
     config = config or {};
-    config.Text = config.Text or "ANONYMOUS HUB";
+    config.Text = config.Text or "ANONYMOUS";
     config.Size = config.Size or 65;
     config.Color = config.Color or Color3.fromRGB(255, 255, 255);
     config.Duration = config.Duration or 3;
