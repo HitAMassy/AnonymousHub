@@ -6,6 +6,7 @@ local scripts = {
     [8316902627] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/HitAMassy/AnonymousHub/refs/heads/main/PlantsVsBrainrots.lua'))()", -- Plants vs Brainrots
     [5750914919] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/HitAMassy/AnonymousHub/refs/heads/main/Fisch.lua'))()", -- Fisch
     [4793836769] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/HitAMassy/AnonymousHub/refs/heads/main/MidnightChasers.lua'))()", -- Midnight Chasers
+    [9277195104] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/HitAMassy/AnonymousHub/refs/heads/main/BlindShot'))()", -- Blind Shot
 }
 
 if scripts[placeId] then
